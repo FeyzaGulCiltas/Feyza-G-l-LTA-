@@ -12,7 +12,7 @@ I enjoy learning new technologies, building projects and continuously improving 
 
 ## 👀 About Me
 
-I am interested in developing useful, modern and user-friendly software solutions.
+I am interested in developing useful, modern and user-friendly software solutions..
 
 - 🎓 **Education:** Computer Engineering Student at Sivas Cumhuriyet University
 - 🌐 **Web Development:** Designing and developing responsive websites
